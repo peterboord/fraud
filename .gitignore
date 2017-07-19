@@ -3,3 +3,5 @@ Fraud_Data.csv
 IpAddress_to_Country.csv
 histogram_demo_extended.py
 plot_kde_1d.ipynb				
+metastore_db
+derby.log
